@@ -1,0 +1,19 @@
+#cargando {
+    display: none;
+}
+@font-face {
+    font-family: "Lemon Milk";
+    src: url("LEMONMILK-Bold.otf");
+  }
+@font-face {
+    font-family: "Amarillo";
+    src: url("Amarillo.otf");
+}
+.btn-f {
+    background: rgb(174,238,195);
+    background: radial-gradient(circle, rgba(174,238,195,1) 0%, rgba(148,225,233,1) 100%);
+}
+.fondo{
+    background: rgb(0,36,36);
+background: linear-gradient(90deg, rgba(0,36,36,1) 0%, rgba(255,104,104,1) 0%, rgba(231,83,83,1) 91%);
+}
